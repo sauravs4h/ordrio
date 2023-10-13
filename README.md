@@ -1,6 +1,6 @@
 # Text-to-Voice Converter
 
-![Homepage Screenshot](screenshot.png)
+![Homepage Screenshot]("https://github.com/sauravs4h/ordrio/blob/main/public/textospeech.png")
 
 This is a simple web application that allows users to convert text into speech. Users can enter text in the provided input box and then use the "Play" button to listen to the text in voice. The "Pause" button allows users to stop the playback.
 
